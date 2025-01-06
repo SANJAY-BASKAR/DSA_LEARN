@@ -6,3 +6,4 @@ hashmap
 trees 
 tries 
 and goes on depth
+data structured and algorithms 
